@@ -1,4 +1,4 @@
-# Recriando Jogo da Cobrinha(Snake Game)
+# Recriando Jogo da Cobrinha (Snake Game)
 
 Atividade sugerida em um bootcamp da Digital Innovation One (DIO) como forma de avaliar conhecimentos em JavaScript.
 
