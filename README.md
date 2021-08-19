@@ -5,3 +5,5 @@ Atividade sugerida em um bootcamp da Digital Innovation One (DIO) como forma de 
 ### Objetivos
 
 Recriar o Jogo da Cobrinha (Snake Game) usando conhecimentos em HTML, CSS e Javascript aprendidos durante o bootcamp.
+
+*Projeto ainda em processo de aperfeiçoamento do código.
